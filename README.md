@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎤I am currently working on a eCommerce Web app<br>👬I am looking to collaborate on laravel PHP projects<br>🤲Im looking for help with scaling and market penetration<br>📝Im currently learning NextJS framework<br>📢Ask me about Web Appprojects<br>💡Fun fact: I love Music Production
+🎤I am currently working on a eCommerce Web app<br>👬I am looking to collaborate on React projects<br>🤲Im looking for help with scaling and market penetration<br>📝Im currently learning NextJS framework<br>📢Ask me about Web Appprojects<br>💡Fun fact: I love Music Production
 
 
 ## 🌐 Socials:
